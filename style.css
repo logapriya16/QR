@@ -22,7 +22,7 @@ body
 .center
 {
   position:absolute;
-  top:130%;
+  top:100%;
   left:73%;
   transform:translate(-50%,-50%);
   width: 300px;
