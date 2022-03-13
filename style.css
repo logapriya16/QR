@@ -15,19 +15,19 @@
 body 
 {
   text-decoration:white;
-  background-image: url("background.png");
+  background-image:url("bg.jpg");
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-size: 1500px;
 }
 .center
 {
   position:absolute;
-  top:100%;
-  left:73%;
+  top:70%;
+  left:55%;
   transform:translate(-50%,-50%);
   width: 300px;
   padding:20px;
-  background:lightsteelblue ;
+  background:white ;
   border-radius:10px;
   height: 300px;
 }
